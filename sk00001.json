@@ -1,1 +1,48 @@
-[{"sonu": "hi i am SONY KUSHWAHA"}]
+[{
+  
+  "status-1": "#1c8134"
+  "status-2": "#1c8134"
+  "status-3": "#1c8134"
+  "status-4": "#1c8134"
+  
+  "shipped-update": "1 update available"
+  
+        "ship-date-time-1": "20 july 2022 5.am"
+        "ship-city-1": "chaterpur"
+        "ship-status-1": "chaterpur to bhopal"
+  
+        "ship-date-time-2": "20 july 2022 5.am"
+        "ship-city-2": "chaterpur"
+        "ship-status-2": "chaterpur to bhopal"
+  
+        "ship-date-time-3": "20 july 2022 5.am"
+        "ship-city-3": "chaterpur"
+        "ship-status-3": "chaterpur to bhopal"
+  
+        "ship-date-time-4": "20 july 2022 5.am"
+        "ship-city-4": "chaterpur"
+        "ship-status-4": "chaterpur to bhopal"
+  
+  
+  "transit-update": "2 update available"
+  
+        "transit-date-time-1": "20 july 2022 5.am"
+        "transit-city-1": "chaterpur"
+        "transit-status-1": "chaterpur to bhopal"
+  
+        "transit-date-time-2": "20 july 2022 5.am"
+        "transit-city-2": "chaterpur"
+        "transit-status-2": "chaterpur to bhopal"
+  
+        "transit-date-time-3": "20 july 2022 5.am"
+        "transit-city-3": "chaterpur"
+        "transit-status-3": "chaterpur to bhopal"
+  
+        "transit-date-time-4": "20 july 2022 5.am"
+        "transit-city-4": "chaterpur"
+        "transit-status-4": "chaterpur to bhopal"
+        
+ 
+ 
+ 
+ }]
