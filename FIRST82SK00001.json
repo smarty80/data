@@ -1,46 +1,46 @@
 [{
   
-  "status-1": "#1c8134",
-  "status-2": "#1c8134",
-  "status-3": "#1c8134",
-  "status-4": "#1c8134",
+  "status1": "#1c8134",
+  "status2": "#1c8134",
+  "status3": "#1c8134",
+  "status4": "#1c8134",
   
-  "shipped-update": "1 update available",
+  "shippedupdate": "1 update available",
   
-        "ship-date-time-1": "20 july 2022 5.am",
-        "ship-city-1": "chaterpur",
-        "ship-sta-1": "chaterpur to bhopal",
+        "shipdatetime1": "20 july 2022 5.am",
+        "shipcity1": "chaterpur",
+        "shipsta1": "chaterpur to bhopal",
   
-        "ship-date-time-2": "20 july 2022 5.am",
-        "ship-city-2": "chaterpur",
-        "ship-sta-2": "chaterpur to bhopal",
+        "shipdatetime2": "20 july 2022 5.am",
+        "shipcity2": "chaterpur",
+        "shipsta2": "chaterpur to bhopal",
   
-        "ship-date-time-3": "20 july 2022 5.am",
-        "ship-city-3": "chaterpur",
-        "ship-sta-3": "chaterpur to bhopal",
+        "shipdatetime3": "20 july 2022 5.am",
+        "shipcity3": "chaterpur",
+        "shipsta3": "chaterpur to bhopal",
   
-        "ship-date-time-4": "20 july 2022 5.am",
-        "ship-city-4": "chaterpur",
-        "ship-sta-4": "chaterpur to bhopal",
+        "shipdatetime4": "20 july 2022 5.am",
+        "shipcity4": "chaterpur",
+        "shipsta4": "chaterpur to bhopal",
   
   
-  "transit-update": "2 update available",
+  "transitupdate": "2 update available",
   
-        "transit-date-time-1": "20 july 2022 5.am",
-        "transit-city-1": "chaterpur",
-        "transit-sta-1": "chaterpur to bhopal",
+        "transitdatetime1": "20 july 2022 5.am",
+        "transitcity1": "chaterpur",
+        "transitsta1": "chaterpur to bhopal",
   
-        "transit-date-time-2": "20 july 2022 5.am",
-        "transit-city-2": "chaterpur",
-        "transit-sta-2": "chaterpur to bhopal",
+        "transitdatetime2": "20 july 2022 5.am",
+        "transitcity2": "chaterpur",
+        "transitsta2": "chaterpur to bhopal",
   
-        "transit-date-time-3": "20 july 2022 5.am",
-        "transit-city-3": "chaterpur",
-        "transit-sta-3": "chaterpur to bhopal",
+        "transitdatetime3": "20 july 2022 5.am",
+        "transitcity3": "chaterpur",
+        "transitsta3": "chaterpur to bhopal",
   
-        "transit-date-time-4": "20 july 2022 5.am",
-        "transit-city-4": "chaterpur",
-        "transit-sta-4": "chaterpur to bhopal"
+        "transitdatetime4": "20 july 2022 5.am",
+        "transitcity4": "chaterpur",
+        "transitsta4": "chaterpur to bhopal"
         
  
  }]
